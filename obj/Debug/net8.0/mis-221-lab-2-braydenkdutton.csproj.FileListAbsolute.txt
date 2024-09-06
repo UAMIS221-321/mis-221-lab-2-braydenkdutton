@@ -1,0 +1,15 @@
+/Users/brayden/Desktop/fall24/MIS221/mis-221-lab-2-braydenkdutton/obj/Debug/net8.0/mis-221-lab-2-braydenkdutton.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brayden/Desktop/fall24/MIS221/mis-221-lab-2-braydenkdutton/obj/Debug/net8.0/mis-221-lab-2-braydenkdutton.AssemblyInfoInputs.cache
+/Users/brayden/Desktop/fall24/MIS221/mis-221-lab-2-braydenkdutton/obj/Debug/net8.0/mis-221-lab-2-braydenkdutton.AssemblyInfo.cs
+/Users/brayden/Desktop/fall24/MIS221/mis-221-lab-2-braydenkdutton/obj/Debug/net8.0/mis-221-lab-2-braydenkdutton.csproj.CoreCompileInputs.cache
+/Users/brayden/Desktop/fall24/MIS221/mis-221-lab-2-braydenkdutton/obj/Debug/net8.0/mis-221-lab-2-braydenkdutton.sourcelink.json
+/Users/brayden/Desktop/fall24/MIS221/mis-221-lab-2-braydenkdutton/bin/Debug/net8.0/mis-221-lab-2-braydenkdutton
+/Users/brayden/Desktop/fall24/MIS221/mis-221-lab-2-braydenkdutton/bin/Debug/net8.0/mis-221-lab-2-braydenkdutton.deps.json
+/Users/brayden/Desktop/fall24/MIS221/mis-221-lab-2-braydenkdutton/bin/Debug/net8.0/mis-221-lab-2-braydenkdutton.runtimeconfig.json
+/Users/brayden/Desktop/fall24/MIS221/mis-221-lab-2-braydenkdutton/bin/Debug/net8.0/mis-221-lab-2-braydenkdutton.dll
+/Users/brayden/Desktop/fall24/MIS221/mis-221-lab-2-braydenkdutton/bin/Debug/net8.0/mis-221-lab-2-braydenkdutton.pdb
+/Users/brayden/Desktop/fall24/MIS221/mis-221-lab-2-braydenkdutton/obj/Debug/net8.0/mis-221-lab-2-braydenkdutton.dll
+/Users/brayden/Desktop/fall24/MIS221/mis-221-lab-2-braydenkdutton/obj/Debug/net8.0/refint/mis-221-lab-2-braydenkdutton.dll
+/Users/brayden/Desktop/fall24/MIS221/mis-221-lab-2-braydenkdutton/obj/Debug/net8.0/mis-221-lab-2-braydenkdutton.pdb
+/Users/brayden/Desktop/fall24/MIS221/mis-221-lab-2-braydenkdutton/obj/Debug/net8.0/mis-221-lab-2-braydenkdutton.genruntimeconfig.cache
+/Users/brayden/Desktop/fall24/MIS221/mis-221-lab-2-braydenkdutton/obj/Debug/net8.0/ref/mis-221-lab-2-braydenkdutton.dll
